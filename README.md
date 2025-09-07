@@ -1,7 +1,7 @@
 # transformer-from-scratch
 
 
-```markdown
+
 # 🧠 Transformer From Scratch
 
 This project implements a **Transformer-based language model entirely from scratch in PyTorch**, without relying on high-level libraries such as Hugging Face.  
@@ -24,7 +24,7 @@ The model is trained on raw text and learns to generate coherent, human-like seq
 
 ## 📂 Project Structure
 ```
-
+```markdown
 transformer-from-scratch/
 │
 ├── model.py       # Transformer architecture (attention, blocks, model)
