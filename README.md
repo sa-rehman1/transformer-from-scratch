@@ -92,10 +92,4 @@ My heart is full of fear, yet still I stay.
 This project is inspired by foundational work on Transformers and simplified educational implementations.
 Special thanks to open-source learning resources that made deep learning more accessible.
 
----
 
-```
-
----
-
-```
